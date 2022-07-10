@@ -1,0 +1,31 @@
+.body_letter{
+    background-color: rgb(5, 5, 5, 0.5);
+}
+.body_position{
+    position: relative;
+}
+/* . dream_home{ */
+    position: absolute;
+    top: 100px;
+}
+/* .body-house */
+{
+   position: relative;
+   top: -100px;
+}
+.building{
+    position: relative;
+}
+.bg_color{
+    background-color: rgb(5, 5, 231,0.5);
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top: 0px;
+}
+.body_letter{
+    background-color: none;
+    position: absolute;
+    top: 100px;
+    left: 480px;
+}
